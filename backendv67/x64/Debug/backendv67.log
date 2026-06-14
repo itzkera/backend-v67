@@ -1,0 +1,135 @@
+﻿  backendv67.cpp
+C:\Users\nick\Documents\GitHub\backendv67\crow\http_parser_merged.h(587,32): warning C4244: '=': conversion from '__int64' to 'unsigned long', possible loss of data
+  (compiling source file 'backendv67.cpp')
+  
+C:\Users\nick\Documents\GitHub\backendv67\crow\http_parser_merged.h(607,32): warning C4244: '=': conversion from '__int64' to 'unsigned long', possible loss of data
+  (compiling source file 'backendv67.cpp')
+  
+  Please define _WIN32_WINNT or _WIN32_WINDOWS appropriately. For example:
+  - add -D_WIN32_WINNT=0x0601 to the compiler command line; or
+  - add _WIN32_WINNT=0x0601 to your project's Preprocessor Definitions.
+  Assuming _WIN32_WINNT=0x0601 (i.e. Windows 7 target).
+C:\Users\nick\Documents\GitHub\backendv67\crow\json.h(1267,35): warning C4267: 'argument': conversion from 'size_t' to 'uint32_t', possible loss of data
+  (compiling source file 'backendv67.cpp')
+  
+C:\Users\nick\Documents\GitHub\backendv67\crow\json.h(1769,32): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'backendv67.cpp')
+  
+C:\Users\nick\Documents\GitHub\backendv67\crow\mustache.h(180,33): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'backendv67.cpp')
+  
+C:\Users\nick\Documents\GitHub\backendv67\crow\mustache.h(199,48): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'backendv67.cpp')
+  
+C:\Users\nick\Documents\GitHub\backendv67\crow\mustache.h(201,53): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\nick\Documents\GitHub\backendv67\crow\mustache.h(201,53): warning C4267:         with
+C:\Users\nick\Documents\GitHub\backendv67\crow\mustache.h(201,53): warning C4267:         [
+C:\Users\nick\Documents\GitHub\backendv67\crow\mustache.h(201,53): warning C4267:             _Ty=int
+C:\Users\nick\Documents\GitHub\backendv67\crow\mustache.h(201,53): warning C4267:         ]
+  (compiling source file 'backendv67.cpp')
+  
+C:\Users\nick\Documents\GitHub\backendv67\crow\mustache.h(302,94): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'backendv67.cpp')
+  
+C:\Users\nick\Documents\GitHub\backendv67\crow\mustache.h(450,54): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'backendv67.cpp')
+  
+C:\Users\nick\Documents\GitHub\backendv67\crow\mustache.h(461,54): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'backendv67.cpp')
+  
+C:\Users\nick\Documents\GitHub\backendv67\crow\mustache.h(479,54): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'backendv67.cpp')
+  
+C:\Users\nick\Documents\GitHub\backendv67\crow\mustache.h(490,54): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'backendv67.cpp')
+  
+C:\Users\nick\Documents\GitHub\backendv67\crow\routing.h(1055,53): warning C4267: '+=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'backendv67.cpp')
+  
+C:\Users\nick\Documents\GitHub\backendv67\crow\routing.h(1066,45): warning C4267: '+=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'backendv67.cpp')
+  
+C:\Users\nick\Documents\GitHub\backendv67\crow\routing.h(1320,47): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'backendv67.cpp')
+  
+C:\Users\nick\Documents\GitHub\backendv67\crow\routing.h(1327,135): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'backendv67.cpp')
+  
+C:\Users\nick\Documents\GitHub\backendv67\crow\routing.h(1388,111): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'backendv67.cpp')
+  
+C:\Users\nick\Documents\GitHub\backendv67\backendv67.cpp(170,52): warning C4244: 'initializing': conversion from 'int64_t' to 'int', possible loss of data
+C:\Users\nick\Documents\GitHub\backendv67\backendv67.cpp(170,29): warning C4244: 'initializing': conversion from 'int64_t' to 'const int', possible loss of data
+C:\Users\nick\Documents\GitHub\backendv67\backendv67.cpp(171,67): warning C4244: 'initializing': conversion from 'int64_t' to 'int', possible loss of data
+C:\Users\nick\Documents\GitHub\backendv67\backendv67.cpp(171,32): warning C4244: 'initializing': conversion from 'int64_t' to 'const int', possible loss of data
+C:\Users\nick\Documents\GitHub\backendv67\crow\http_connection.h(400,75): warning C4244: 'argument': conversion from 'unsigned __int64' to 'int', possible loss of data
+  (compiling source file 'backendv67.cpp')
+      C:\Users\nick\Documents\GitHub\backendv67\crow\http_connection.h(400,75):
+      the template instantiation context (the oldest one first) is
+          C:\Users\nick\Documents\GitHub\backendv67\backendv67.cpp(194,21):
+          see reference to class template instantiation 'crow::Crow<>' being compiled
+          C:\Users\nick\Documents\GitHub\backendv67\crow\app.h(526,14):
+          while compiling class template member function 'void crow::Crow<>::run(void)'
+              C:\Users\nick\Documents\GitHub\backendv67\backendv67.cpp(472,24):
+              see the first reference to 'crow::Crow<>::run' in 'main'
+          C:\Users\nick\Documents\GitHub\backendv67\crow\app.h(581,30):
+          see reference to class template instantiation 'crow::Server<crow::Crow<>,crow::TCPAcceptor,crow::SocketAdaptor>' being compiled
+          C:\Users\nick\Documents\GitHub\backendv67\crow\http_server.h(304,14):
+          while compiling class template member function 'void crow::Server<crow::Crow<>,crow::TCPAcceptor,crow::SocketAdaptor>::do_accept(void)'
+              C:\Users\nick\Documents\GitHub\backendv67\crow\http_server.h(218,22):
+              see the first reference to 'crow::Server<crow::Crow<>,crow::TCPAcceptor,crow::SocketAdaptor>::do_accept' in 'crow::Server<crow::Crow<>,crow::TCPAcceptor,crow::SocketAdaptor>::run'
+              C:\Users\nick\Documents\GitHub\backendv67\crow\app.h(587,33):
+              see the first reference to 'crow::Server<crow::Crow<>,crow::TCPAcceptor,crow::SocketAdaptor>::run' in 'crow::Crow<>::run'
+              C:\Users\nick\Documents\GitHub\backendv67\backendv67.cpp(472,24):
+              see the first reference to 'crow::Crow<>::run' in 'main'
+          C:\Users\nick\Documents\GitHub\backendv67\crow\http_server.h(317,19):
+          see reference to class template instantiation 'crow::Connection<Adaptor,Handler>' being compiled
+          with
+          [
+              Adaptor=crow::SocketAdaptor,
+              Handler=crow::Crow<>
+          ]
+          C:\Users\nick\Documents\GitHub\backendv67\crow\http_connection.h(391,14):
+          while compiling class template member function 'void crow::Connection<Adaptor,Handler>::do_read(void)'
+          with
+          [
+              Adaptor=crow::SocketAdaptor,
+              Handler=crow::Crow<>
+          ]
+              C:\Users\nick\Documents\GitHub\backendv67\crow\http_connection.h(103,34):
+              see the first reference to 'crow::Connection<Adaptor,Handler>::do_read' in 'crow::Connection<Adaptor,Handler>::start::<lambda_1>::operator ()'
+          with
+          [
+              Adaptor=crow::SocketAdaptor,
+              Handler=crow::Crow<>
+          ]
+  
+C:\Users\nick\Documents\GitHub\backendv67\crow\parser.h(127,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'backendv67.cpp')
+      C:\Users\nick\Documents\GitHub\backendv67\crow\parser.h(127,25):
+      the template instantiation context (the oldest one first) is
+          C:\Users\nick\Documents\GitHub\backendv67\crow\http_connection.h(519,32):
+          see reference to class template instantiation 'crow::HTTPParser<crow::Connection<Adaptor,Handler>>' being compiled
+          with
+          [
+              Adaptor=crow::SocketAdaptor,
+              Handler=crow::Crow<>
+          ]
+          C:\Users\nick\Documents\GitHub\backendv67\crow\parser.h(111,14):
+          while compiling class template member function 'bool crow::HTTPParser<crow::Connection<Adaptor,Handler>>::feed(const char *,int)'
+          with
+          [
+              Adaptor=crow::SocketAdaptor,
+              Handler=crow::Crow<>
+          ]
+              C:\Users\nick\Documents\GitHub\backendv67\crow\http_connection.h(400,32):
+              see the first reference to 'crow::HTTPParser<crow::Connection<Adaptor,Handler>>::feed' in 'crow::Connection<Adaptor,Handler>::do_read::<lambda_1>::operator ()'
+          with
+          [
+              Adaptor=crow::SocketAdaptor,
+              Handler=crow::Crow<>
+          ]
+  
+  backendv67.vcxproj -> C:\Users\nick\Documents\GitHub\backendv67\x64\Debug\backendv67.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
